@@ -1,0 +1,110 @@
+body
+{
+  margin:0;
+  text-align: center;
+  padding-top: 100px;
+  font-family:'Merriweather', serif;
+}
+h1{
+  border-top: 150px;
+  font-family:sans-serif;
+  font-size: 3.5rem;
+  color: #66bfbf;
+}
+.about{
+  font-size: 1.5rem;
+  color: #11999e;
+}
+h2  {
+  font-family: 'Monsterrat',sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+  padding:  20px;
+}
+h3  {
+  font-family: 'Monsterrat',sans-serif;
+  color: #66bfbf;
+}
+hr{
+  border: dotted pink;
+  border-bottom: none;
+  width: 5%;
+}
+.topcloud{
+  position: absolute;
+  right: 200px;
+  top:50px;
+}
+.bottomcloud{
+  position: absolute;
+  top:250px;
+  left:200px;
+}
+.maindiv{
+  background-color: #E4F9F5;
+}
+.profile{
+  padding-top: 50px;
+}
+.skills{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.JavaScript{
+  padding-top: 30px;
+}
+.html{
+  width: 25%;
+  height: 50%
+
+}
+.JavaScript{
+  width: 25%;
+}
+.contact-info{
+  width:50%
+  margin:auto;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+  margin-top: 10px;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:13px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  margin-top: 50px;
+  background-color: #66bfbf;
+  padding:30px auto 5px auto ;
+
+}
+a{
+  color:#408c99;
+  margin:auto 30px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  color:grey;
+  font-size: 0.75rem;
+  padding:20px 0;
+}
